@@ -10,7 +10,7 @@
 
 **Summary**
 
-I'm a bank economist and i'm very accurate, capable, diligent, hardworking and honest person. Like to learn new and want to learn front-end development in RSSSchool.
+I'm a bank economist and i'm very accurate, capable, diligent, hardworking and honest person. Like to learn new and want to learn front-end development in RSSchool.
 
 **Skills**
 
