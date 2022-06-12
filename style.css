@@ -29,3 +29,32 @@ html {
     height: 60px;
     background-color: #f5f5f5;
   }
+
+
+   .main-conteiner {
+    display: flex;
+    flex-wrap: wrap;
+  }
+   .section {
+    width: 50%;
+  }
+
+ 
+  h1 img {
+    vertical-align: middle;
+  }
+  
+  
+   .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+   .nav-list {
+    list-style: none;
+  }
+  .nav-link {
+    padding: 0 20px; 
+    line-height: 50px;
+    transition: .3s;
+  }
